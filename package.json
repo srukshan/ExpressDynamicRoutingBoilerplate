@@ -1,7 +1,7 @@
 {
 	"name": "expressdynamicroutingtutorial",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Express + Typescript + Dynamic Decorator Routing",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
 		"start:watch": "nodemon",
 		"build": "tsc"
 	},
-	"author": "",
+	"author": "Sachith Rukshan",
 	"license": "ISC",
 	"dependencies": {
 		"express": "^4.17.1"
